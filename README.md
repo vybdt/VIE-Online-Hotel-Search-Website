@@ -7,7 +7,7 @@ Raw data
 Data sau khi thêm cột dữ liệu
 ## **summary**: 
 Bảng tổng hợp của các nhà quảng cáo
-## **Bùi_Diệp_Thanh_Vy_Fianl_Project**: 
+## **Bùi_Diệp_Thanh_Vy_Final_Project**: 
 Đọc và khai phá dữ liệu bằng Python
 ## **Online Hotel Search Website_Power BI**: 
 Trực quan hóa dữ liệu bằng Power BI
